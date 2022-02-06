@@ -73,8 +73,8 @@ Make your own bot using below source code.
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("📨 Support", url="https://t.me/JaguarBots"),
-            InlineKeyboardButton("📚 Source Code", url="https://github.com/ImJanindu/47MusicPlayerBot")
+            InlineKeyboardButton("📨 KANAL", url="https://t.me/Vizyontelebotlog"),
+            InlineKeyboardButton("📚 DESTEK", url="https://t.me/tgailesi")
         ]
     ]
 )
