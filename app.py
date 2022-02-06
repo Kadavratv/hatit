@@ -74,6 +74,7 @@ START_BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton("📨 KANAL", url="https://t.me/Vizyontelebotlog"),
+            InlineKeyboardButton("🇹🇷 SAHİP", url="https://t.me/Kizilsancaksahibi")
             InlineKeyboardButton("📚 DESTEK", url="https://t.me/tgailesi")
         ]
     ]
